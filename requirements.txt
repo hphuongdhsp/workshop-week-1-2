@@ -1,0 +1,17 @@
+numpy==1.19.3
+scipy==1.5.3                    
+matplotlib==3.3.2
+seaborn==0.11.0
+scikit-learn==0.23.2  
+xgboost==1.2.1  
+lightgbm==3.0.0         
+bayesian-optimization==1.2.0
+plotly
+pandas
+h2o
+unidecode==1.1.1
+xlrd
+plotly
+cufflinks
+nbformat
+imblearn
