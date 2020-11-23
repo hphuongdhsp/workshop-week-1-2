@@ -32,10 +32,13 @@ Giới thiệu tổng quan về cách tiếp cận giải quyết bài toán cla
         
 ## Yêu cầu cài đặt 
 
+```
 $ conda create --name workshop python=3.7
 $ conda activate workshop
 $ sudo apt install default-jdk
 $ pip install -r requirements.txt
+
+```
 
 ## Download notebook
 
