@@ -32,24 +32,10 @@ Giới thiệu tổng quan về cách tiếp cận giải quyết bài toán cla
         
 ## Yêu cầu cài đặt 
 
-python 3.7
-
-numpy==1.19.3
-scipy==1.5.3                    
-matplotlib==3.3.2
-seaborn==0.11.0
-scikit-learn==0.23.2  
-xgboost==1.2.1  
-lightgbm==3.0.0         
-bayesian-optimization==1.2.0
-plotly
-pandas==0.23.1
-h2o
-unidecode==1.1.1
-xlrd
-plotly
-cufflinks
-nbformat
+$ conda create --name workshop python=3.7
+$ conda activate workshop
+$ sudo apt install default-jdk
+$ pip install -r requirements.txt
 
 ## Download notebook
 
